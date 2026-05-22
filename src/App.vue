@@ -9,7 +9,7 @@ import SvgIcon from './components/SvgIcon.vue';
     Visit <a href="https://vuejs.org/" target="_blank" rel="noopener">vuejs.org</a> to read the
     documentation
   </p>
-  <SvgIcon name="arrow"></SvgIcon>
+  <SvgIcon name="arrow" class="size-80"></SvgIcon>
 </template>
 
 <style scoped></style>
