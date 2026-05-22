@@ -1,4 +1,5 @@
 <template>
+    <!-- 无障碍访问应当忽视这个SVG -->
     <svg aria-hidden="true" :class="customCss">
         <use :href="symbolId" />
     </svg>
